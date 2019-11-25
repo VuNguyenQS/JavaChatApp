@@ -13,6 +13,7 @@ The code has been run and tested on Java 11, but i think this one would be compi
 
 
 * Server side:
+
 To compile server code you follow the below statement:
 ```
 javac server/ChatSercer.java
@@ -22,6 +23,7 @@ You need to give the port number for running server by command line:
 java server.ChatServer 8000
 ```
 * Client side:
+
 Compiling step is finished by this command:
 ```
 javac client/ChatClient.java
